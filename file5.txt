@@ -1,7 +1,4 @@
 test1213131
-<<<<<<< HEAD
 test222222
 test3333
 
-=======
->>>>>>> parent of f133550... commit 6
